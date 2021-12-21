@@ -1,0 +1,4 @@
+# Created by cloud-init v. 21.4-0ubuntu1~20.04.1 on Wed, 15 Dec 2021 20:30:31 +0000
+
+# User rules for svblion
+svblion ALL=(ALL) NOPASSWD:ALL
